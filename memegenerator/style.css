@@ -7,7 +7,7 @@
     object-fit: cover;
 }
 
-.meme-generator .generate-meme-btn .meme-preview{
+.meme-generator .generate-meme-btn{
     padding: 8px 20px;
     border: none;
     border-left: 4px solid #222;
